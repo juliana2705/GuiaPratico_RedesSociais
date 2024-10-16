@@ -22,3 +22,7 @@ O projeto é um guia prático em formato de história em quadrinhos, focado em e
 4. **Fake News**: Enfrentam o desafio de distinguir notícias falsas de informações confiáveis.
 5. **Interações Positivas**: Dicas para lidar com comentários negativos e praticar a empatia online.
 6. **Conclusão**: Os personagens aplicam o que aprenderam e se tornam usuários mais conscientes e responsáveis.
+
+
+## Link para Trello
+https://trello.com/invite/b/670efc14bbc8dfe3687c91ae/ATTI34e9beb386e22989d69ab095bd5f4454C841A597/boas-praticas-no-uso-de-redes-sociais
